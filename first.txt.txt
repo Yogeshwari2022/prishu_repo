@@ -1,1 +1,2 @@
-hii this command is for git --diff
+hii this command is for git --diff command
+this file is in the working area
