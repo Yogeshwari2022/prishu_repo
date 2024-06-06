@@ -1,2 +1,3 @@
-hii this command is for git --diff command
+hii this command is for git --diff 
 this file is in the working area
+in this will check the difference between working area and committed area
